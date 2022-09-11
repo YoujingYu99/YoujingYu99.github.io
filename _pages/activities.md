@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
 
@@ -9,30 +9,8 @@ author_profile: true
 
 <a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View PDF</a>
 
-Education
-======
-* MEng in Information Engineering, Univeristy of Cambridge, 2023 (expected)
-* A-Levels, Science Stream, Hwa Chong Institution, 2018
-* Secondary Education, Science Stream, Anderson Secondary School, 2016
 
-Work experience
-======
-* Summer 2022: Research Assistant
-  * University College London, Department of Computer Science.
 
-* Summer 2021: Research Intern
-  * University of Cambridge, Department of Engineering
-  * Supervisor: Dr Marcus Tomalin
-
-* Spring 2021: Research Intern
-  * University of Cambridge, Department of Engineering
-  * Supervisor: Professor Adam Boies
-  
-* Winter 2020: Research Intern
-  * SpacePT
-  
-* Summer 2020: Research Intern
-  * Supervisor: Professor Edmund Lam
 
 Extra-curricular Activities 
 ======
@@ -57,18 +35,4 @@ Extra-curricular Activities
 
 
 
-Skills
-======
-* Microsoft Office
-* Programming Languages
-  * Python
-  * Javascript
-  * Matlab
-  * C++
-  * Ocaml
-  * SQL
-* Web Design
-* Languages
-  *  English (Full working proficiency)
-  *  Chinese (Native)
-  *  German (Intermediate)
+
