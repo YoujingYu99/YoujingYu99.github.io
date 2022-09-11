@@ -23,7 +23,7 @@ author_profile: true
   *  Organise trainings, matches and court bookings.
 
 
-4.Jan 2017 - Dec 2018: Volunteer
+4. Jan 2017 - Dec 2018: Volunteer
   *  Organisation: Son-rise Singapore
   *  Responsible for interacting with an autistic child and try to gain their trust and friendship.
   *  Played with an autistic child four hours a week. Taught the child basic words and phrases.
