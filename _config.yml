@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noah Coleman"
+title                    : "Youjing Yu"
 title_separator          : "-"
-name                     : &name "Noah Coleman"
-description              : &description "Computer engineering graduate"
+name                     : &name "Youjing Yu"
+description              : &description "Information Engineering Undergraduate at University of Cambridge"
 url                      : https://youjingyu99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YoujingYu99/YoujingYu99.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah Coleman"
-  avatar           : "profile.jpg"
-  bio              : "Computer engineering graduate"
-  location         : "Greater Minneapolis-St. Paul Area"
+  name             : "Youjing YU"
+  avatar           : "among.jpg"
+  bio              : "Information Engineering Undergraduate at University of Cambridge"
+  location         : "Cmabridge, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
-  email            : "noah.coleman@mnsu.edu"
+  email            : "yuyoujing@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "noahcoleman42"
+  github           : "youjingyu99"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "noahcoleman42"
+  linkedin         : "youjingyu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
