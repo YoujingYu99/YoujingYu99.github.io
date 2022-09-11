@@ -15,6 +15,8 @@ author_profile: true
    ![shave](/images/long_hair.jpg){: width="400", : style="float: center; margin: 500px"}
    ![shave](/images/shave.jpg){: width="400", : style="float: center; margin: 200px"}
 
+
+
 2. Oct 2022 - June 2023: Trinity College Badminton Club President
    * Organisation: Trinity College Badminton Club
    * Overseeing Women's Team and Men's First, Second and Third Team.
@@ -22,17 +24,23 @@ author_profile: true
   
    ![Badminton](/images/badminton.jpg){: width="700", : style="float: center; margin: 500px"}
 
+
+
 3. Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
    * Organisation: Trinity College Badminton Women's First Team
    * Organise trainings, matches and court bookings.
    * Devise and implement training strategies. 
 
    ![Badminton](/images/badminton2.jpg){: width="700", : style="float: center; margin: 500px"}
+
+
+
 4. Jan 2017 - Dec 2018: Volunteer
    * Organisation: Son-rise Singapore
    * Responsible for interacting with an autistic child and try to gain their trust and friendship.
    * Played with an autistic child four hours a week. Taught the child basic words and phrases.
   
+
 
 5. Jan 2017 - Dec 2018: Team Member
    * Organisation: Hwa Chong Institution Tennis Team
@@ -41,6 +49,9 @@ author_profile: true
 
    ![Tennis](/images/tennis.jpg){: width="700", : style="float: center; margin: 500px;"}
 
+
+
+
 6. Jan 2017 - June 2018: Team Member
    * Organisation: Hwa Chong Institution Chinese Orchestra
    * Represented Hwa Chong Institution Chinese Orchestra Guzheng player.
@@ -48,10 +59,16 @@ author_profile: true
 
    ![Tennis](/images/co.jpg){: width="700", : style="float: center; margin: 500px"}
 
+
+
+
 7. Jan 2015 - Dec 2016: Volunteer
    * Organisation: Ground-up Initiative
    * Ground-up Initiative is a non-profit community that aims to develop urban sustainability through hands-on education on farming, craftwork and painting. 
    * Participated in carpentry, brick-making, seed-sowing, plant-watering and a variety of agricultural activities.
+
+
+
 
 8. Jan 2015 - June 2015: Choir Member
    * Organisation: Anderson Secondary School Choir

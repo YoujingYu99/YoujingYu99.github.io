@@ -318,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662925966095</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Change width">
+      <created>1662926102632</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1662926102632</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +343,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test" />
     <MESSAGE value="Fix emails" />
     <MESSAGE value="Update Resume" />
     <MESSAGE value="Rename site" />
@@ -361,6 +367,7 @@
     <MESSAGE value="Image reformatting" />
     <MESSAGE value="add long hair image" />
     <MESSAGE value="Floats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Floats" />
+    <MESSAGE value="Change width" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change width" />
   </component>
 </project>
