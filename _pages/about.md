@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Youjing Yu, a fourth year student specialising in Information Engineering at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP) and am fortunate to be advised by Dr Guillaume Hennequin in my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. Currently I am hoping to pursue a PhD in NLP, on educational chatbots. Feel free to get in touch if you want to know more about me! Checkout my research experiences below.
+Hello friends! My name is Youjing Yu, a fourth year student specialising in Information Engineering at the Universityof Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP) and am fortunate to be advised by Dr Guillaume Hennequin in my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. Currently I am hoping to pursue a PhD in NLP, on educational chatbots. Feel free to get in touch if you want to know more about me! Checkout my research experiences below.
+
+
+Experiences
+======
+Here are some of my experiences in the past. Feel free
+* Research on Confidence Detection in Conversational Search Systems; Summer 2022
