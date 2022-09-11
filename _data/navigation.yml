@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Experience"
-    url: /experience/
-
-  - title: "Activities"
-      url: /activities/
+    url: /experience/    
 
   - title: "Resume"
     url: /resume/

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_activities/1_shave.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_activities/2_pres.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_activities/3_captain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_activities/4_sonrise.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_activities/5_groundup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/activities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-    </list>
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,15 +26,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -201,14 +192,7 @@
       <option name="project" value="LOCAL" />
       <updated>1662908441176</updated>
     </task>
-    <task id="LOCAL-00020" summary="mending about page.">
-      <created>1662908506391</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662908506391</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +229,6 @@
     <MESSAGE value="add back experiences" />
     <MESSAGE value="Renaming experiences files." />
     <MESSAGE value="Add HKU experience and course files." />
-    <MESSAGE value="mending about page." />
-    <option name="LAST_COMMIT_MESSAGE" value="mending about page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HKU experience and course files." />
   </component>
 </project>
