@@ -16,7 +16,8 @@ author_profile: true
   *  Organisation: Trinity College Badminton Club
   *  Overseeing Women's Team and Men's First, Second and Third Team.
   *  Organise trials, coaching, trainings, stash, social events and league matches.
-
+  
+![Badminton](/images/badminton.jpg){: width="500", : style="float: left; margin: 10px"}
 
 3. Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
   * Organisation: Trinity College Badminton Women's First Team
@@ -46,3 +47,4 @@ author_profile: true
   * Organisation: Hwa Chong Institution Chinese Orchestra
   * Represented Hwa Chong Institution Chinese Orchestra Guzheng player.
   * Gold award at Singapore Youth Festival.
+![Tennis](/images/tennis.jpg){: width="500", : style="float: left; margin: 10px"}
