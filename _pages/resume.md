@@ -7,76 +7,58 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.docx" target="_blank">View PDF</a>
+<a href="http://noahcoleman42.github.io/files/ncoleman_resume.pdf" target="_blank">View PDF</a>
 
 Education
 ======
-* MEng in Information Engineering, Univeristy of Cambridge, 2023 (expected)
-* A-Levels, Science Stream, Hwa Chong Institution, 2018
-* Secondary Education, Science Stream, Anderson Secondary School, 2016
+Bachelor of Science in computer engineering, Minnesota State University, Mankato, 2020
+
+Technical Skills
+======
+* Languages:
+  * Embedded C
+  * C++
+  * C#
+  * Assembly
+  * Verilog
+  * VHDL
+  * Python
+  * Java
+  * HTML
 
 Work experience
 ======
-* Summer 2022: Research Assistant
-  * University College London, Department of Computer Science.
-  * Currently working on confidence and user expertise detection and measurement on different conversational search systems (CSS) through common-sense reasoning in Natural Language Processing (NLP) using transformer-based multimodal deep neural networks.
-  * Supervisor: Dr Aldo Lipani
+* Aug 2019-Nov 2020: Electronics Research Assistant - Universal and Scalable Smart Grid Power Converter
+  * Designed and built an electric vehicle to test the proof-of-concept bi-directional grid-compatible power converter.
+  * Collaborated with graduate students to design a current sensor PCB for the converter in Altium and communicated individual progress to a cross-functional team.
+  * Provided technical documentation including project references and reports.
 
-* Summer 2021: Research Intern
-  * University of Cambridge, Department of Engineering
-  * Developed a web-based interface for Natural Language Processing(NLP) text corpora that enables gender biases to be revealed visually and interactively.A Flask-based web framework was created where the user can upload their corpora through inputting plain text, URL or txt files. Two NLP algorithms will run, namely the Bias Score Calculation algorithm based on word embedding and sentence parsing. Bias scores associated with each token and specific sentence structures are returned to the user. Interactive pivot tables, bar graphs, word clouds, PCA and TSNE graphs are provided for the user to explore and extract information.
-  * Supervisor: Dr Marcus Tomalin
+* Jan 2020-May 2020: Teaching Assistant
+  * Teaching Assistant for Microprocessor Engineering Laboratory.
+  * Teaching Assistant for AC Circuits Laboratory.
+  * Guided students through a virtual lab by providing recorded material of experiments and conducting flexible grading and instructing practices.
 
-* Spring 2021: Research Intern
-  * University of Cambridge, Department of Engineering
-  * Wrote an algorithm for detecting UK car plate numbers from video footages using computer vision packages such as OpenCV and Pytesseract.
-  * Supervisor: Professor Adam Boies
-  
-* Winter 2020: Research Intern
-  * SpacePT
-  *	Building an ML-Enhanced Computer Vision Change Detector System for Satellite Images Analysis. Writing a Convolutional Neural Network(CNN) for difference image detection for satellite building, forest fire and oil spill images. Team leader of the unsupervised learning team.
-
-  
-* Summer 2020: Research Intern
-  * University of Hong Kong, Department of Electrical and Electronic Engineering
-  * Performed image to image translations with Generative Adversarial Network (GAN) structures on hologram images.
-  * Supervisor: Professor Edmund Lam
-
-Extra-curricular Activities 
+Projects
 ======
-* Oct 2022 - June 2023: Trinity College Badminton Club President
-  *  Organisation: Trinity College Badminton Club
-  *  Overseeing four teams.
-  *  Organise trials, coachings, trainings, stash, social events and league matches.
+* Dec 2020-Present: Web-Controlled Thermostat
+  * Developing a web-controlled thermostat in Python that leverages cloud technology using a Raspberry Pi hosting a Flask web server to make heating your home more convenient.
 
-* Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
-  *  Organisation: Trinity College Badminton Women's First Team
-  *  Organise trainings, matches and court bookings.
+* November 2020: Craigslist Web Scraper
+  * Developed a Selenium-based web crawler in C# that displays information about Craigslist posts to users on an ASP.NET web application for quicker search results.
+  * Learned the fundamentals of HTML.
 
-* Jan 2017 - Dec 2018: Vonlunteer
-  *  Organisation: Son-rise Singapore
-  *  Responsible for interacting with an autistic child and try to gain their trust and friendship.
-  *  Played with an autistic child four hours a week. Taught the child basic words and phrases.
+* Aug 2019-May 2020: Senior Design Project – CNC Milling Machine
+  * Worked with a team of three students to successfully design and build a portable sized Computer Numerically Controlled machine using 3D printed parts to carve wood and aluminum.
+  * Responsible for designing and modeling 3D printed parts in Fusion 360.
+  * Independently completed the project despite pandemic circumstances.
 
-* Jan 2015 - Dec 2016: Vonlunteer
-  *  Organisation: Ground-up Initiative
-  *  Ground-up Initiative is a non-profit community that aims to develop urban sustainability through hands-on education on farming, craftwork and painting. 
-  *  Participated in carpentry, brick-making, seed-sowing, plant-watering and a variety of agricultural activities.
+* Sept 2018-May 2019: Junior Design Project – Bike Alert
+  * Worked with a group of three to design and build a controller that implements a computer vision algorithm to automatically alert pedestrians of a biker’s presence, providing convenience for bike riders and improving pedestrian safety.
+  * Learned the fundamentals of Python and TensorFlow.
+  * Continually improved functionality and design of the device after the course ended.
 
-
-
-Skills
+Activities
 ======
-* Microsoft Office
-* Programming Languages
-  * Python
-  * Javascript
-  * Matlab
-  * C++
-  * Ocaml
-  * SQL
-* Web Design
-* Languages
-  *  English (Full working proficiency)
-  *  Chinese (Native)
-  *  German (Intermediate)
+*	Reconstructing run-down bikes to be donated to kids and adults through Key City Bike in Mankato, MN.
+*	Volunteer at a local food shelf that helps feed over 50 families each month.
+*	Avid cyclist and guitar player. Hobbyist 3D model designer.

@@ -1,10 +1,14 @@
 # main links links
 main:
-  - title: "Resume"
-      url: /resume/
-
   - title: "Projects"
     url: /projects/
+
+  - title: "Experience"
+    url: /experience/    
+
+  - title: "Resume"
+    url: /resume/
         
   - title: "Contact"
-    url: mailto:youjingyu@hotmail.com?Subject=Hi%20Youjing
+    url: mailto:noah.coleman@mnsu.edu?Subject=Hi%20Noah
+    
