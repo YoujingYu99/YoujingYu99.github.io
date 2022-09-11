@@ -41,6 +41,14 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> {{ page.date }}</p>
         {% endif %}
+
+        {% if page.collection == 'activities' %}
+          <p> <i>{{ page.venue }}</i>, {{ page.type }} </p>
+        {% elsif page.venue and page.date %}
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date }} </p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> {{ page.date }}</p>
+        {% endif %}
         
              
         {% if page.citation and page.paperurl %}
