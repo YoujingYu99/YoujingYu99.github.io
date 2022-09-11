@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_experience/car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/3_car_plate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_confidence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/2_data_bias.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/hku.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_spacept.md" afterDir="false" />
-    </list>
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
     </key>
@@ -184,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662907841848</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Renaming experiences files.">
+      <created>1662908144433</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662908144433</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add HKU experience and course files.">
+      <created>1662908441176</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662908441176</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +227,8 @@
     <MESSAGE value="Reformat files." />
     <MESSAGE value="remove experiences" />
     <MESSAGE value="add back experiences" />
-    <option name="LAST_COMMIT_MESSAGE" value="add back experiences" />
+    <MESSAGE value="Renaming experiences files." />
+    <MESSAGE value="Add HKU experience and course files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HKU experience and course files." />
   </component>
 </project>
