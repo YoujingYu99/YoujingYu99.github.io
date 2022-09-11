@@ -34,26 +34,39 @@ Work experience
 * Summer 2020: Research Intern
   * Supervisor: Professor Edmund Lam
 
-Extra-curricular Activities 
-======
-* Oct 2022 - June 2023: Trinity College Badminton Club President
-  *  Organisation: Trinity College Badminton Club
-  *  Overseeing four teams.
-  *  Organise trials, coachings, trainings, stash, social events and league matches.
+[comment]: <> (Extra-curricular Activities )
 
-* Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
-  *  Organisation: Trinity College Badminton Women's First Team
-  *  Organise trainings, matches and court bookings.
+[comment]: <> (======)
 
-* Jan 2017 - Dec 2018: Vonlunteer
-  *  Organisation: Son-rise Singapore
-  *  Responsible for interacting with an autistic child and try to gain their trust and friendship.
-  *  Played with an autistic child four hours a week. Taught the child basic words and phrases.
+[comment]: <> (* Oct 2022 - June 2023: Trinity College Badminton Club President)
 
-* Jan 2015 - Dec 2016: Vonlunteer
-  *  Organisation: Ground-up Initiative
-  *  Ground-up Initiative is a non-profit community that aims to develop urban sustainability through hands-on education on farming, craftwork and painting. 
-  *  Participated in carpentry, brick-making, seed-sowing, plant-watering and a variety of agricultural activities.
+[comment]: <> (  *  Organisation: Trinity College Badminton Club)
+
+[comment]: <> (  *  Overseeing four teams.)
+
+[comment]: <> (  *  Organise trials, coachings, trainings, stash, social events and league matches.)
+
+[comment]: <> (* Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain)
+
+[comment]: <> (  *  Organisation: Trinity College Badminton Women's First Team)
+
+[comment]: <> (  *  Organise trainings, matches and court bookings.)
+
+[comment]: <> (* Jan 2017 - Dec 2018: Vonlunteer)
+
+[comment]: <> (  *  Organisation: Son-rise Singapore)
+
+[comment]: <> (  *  Responsible for interacting with an autistic child and try to gain their trust and friendship.)
+
+[comment]: <> (  *  Played with an autistic child four hours a week. Taught the child basic words and phrases.)
+
+[comment]: <> (* Jan 2015 - Dec 2016: Vonlunteer)
+
+[comment]: <> (  *  Organisation: Ground-up Initiative)
+
+[comment]: <> (  *  Ground-up Initiative is a non-profit community that aims to develop urban sustainability through hands-on education on farming, craftwork and painting. )
+
+[comment]: <> (  *  Participated in carpentry, brick-making, seed-sowing, plant-watering and a variety of agricultural activities.)
 
 
 
