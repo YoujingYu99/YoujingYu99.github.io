@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Experience"
-    url: /experience/
-
-  - title: "Extra-Curricular Activities"
-      url: /eca/
+    url: /experience/    
 
   - title: "Resume"
     url: /resume/

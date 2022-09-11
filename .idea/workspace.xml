@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_eca/1_shave.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_eca/2_pres.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_eca/3_captain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_eca/4_sonrise.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_eca/5_groundup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/eca.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/3_car_plate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_confidence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/2_data_bias.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_hku.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_spacept.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/resume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/car_plate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/confidence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/data_bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/hku.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/spacept.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +26,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_eca" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_eca" />
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -67,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662897602956</updated>
       <workItem from="1662897604348" duration="3711000" />
-      <workItem from="1662901488281" duration="4320000" />
+      <workItem from="1662901488281" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -167,21 +157,7 @@
       <option name="project" value="LOCAL" />
       <updated>1662905155153</updated>
     </task>
-    <task id="LOCAL-00015" summary="Remove permalinks">
-      <created>1662905275673</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1662905275673</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Change about">
-      <created>1662905366229</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662905366229</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,8 +178,6 @@
     <MESSAGE value="Add pdf" />
     <MESSAGE value="Add experiences" />
     <MESSAGE value="Adding experience" />
-    <MESSAGE value="Remove permalinks" />
-    <MESSAGE value="Change about" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change about" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding experience" />
   </component>
 </project>
