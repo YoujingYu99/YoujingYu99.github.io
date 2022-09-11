@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="2Ecb1DlPYa003mCY3t20EGdeh0T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MATLAB_INTERPRETER" value="C:\Program Files\MATLAB\R2019b\bin\matlab.exe" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MatlabApplication">
+      <option name="FILE_PATH" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
+      <created>1662897602956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662897602956</updated>
+      <workItem from="1662897604348" duration="3711000" />
+      <workItem from="1662901488281" duration="3185000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add files.">
+      <created>1662897866761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662897866761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change readme">
+      <created>1662898480218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662898480218</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remove unnecessary files.">
+      <created>1662898993398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662898993398</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reformat pages.">
+      <created>1662899245512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662899245512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Check">
+      <created>1662900198431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662900198431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test">
+      <created>1662900395262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662900395262</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix emails">
+      <created>1662900790386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662900790386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update Resume">
+      <created>1662900904028</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662900904028</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Rename site">
+      <created>1662903141249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903141249</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add cv">
+      <created>1662903182619</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903182619</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Remove projects">
+      <created>1662903534427</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903534427</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add pdf">
+      <created>1662903750971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903750971</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add experiences">
+      <created>1662904644508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662904644508</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding experience">
+      <created>1662905155153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662905155153</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Reformat files.">
+      <created>1662907607145</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662907607145</updated>
+    </task>
+    <task id="LOCAL-00016" summary="remove experiences">
+      <created>1662907687832</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662907687832</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files." />
+    <MESSAGE value="Change readme" />
+    <MESSAGE value="Remove unnecessary files." />
+    <MESSAGE value="Reformat pages." />
+    <MESSAGE value="Check" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Fix emails" />
+    <MESSAGE value="Update Resume" />
+    <MESSAGE value="Rename site" />
+    <MESSAGE value="Add cv" />
+    <MESSAGE value="Remove projects" />
+    <MESSAGE value="Add pdf" />
+    <MESSAGE value="Add experiences" />
+    <MESSAGE value="Adding experience" />
+    <MESSAGE value="Reformat files." />
+    <MESSAGE value="remove experiences" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove experiences" />
+  </component>
+</project>
