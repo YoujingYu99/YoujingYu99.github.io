@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Research Intern"
 collection: experience
-venue: "University of Hong Kong, Department of Electrical and Electronic Engineering"
+venue: "University of Hong Kong, Department of Electrical and Electronic Engineering
 type: "Summer 2020"
 location: "Hong Kong"
 ---
