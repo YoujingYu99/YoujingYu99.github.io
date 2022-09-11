@@ -1,7 +1,6 @@
 ---
 title: "Student Research Intern"
 collection: experience
-permalink: /experience/ussgpc
 venue: "SpacePT"
 type: "Winter 2020"
 location: "Cambridge"

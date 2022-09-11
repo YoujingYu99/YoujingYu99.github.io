@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="Add experiences">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_experience/car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/car_plate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/confidence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/data_bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/hku.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/spacept.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662897602956</updated>
       <workItem from="1662897604348" duration="3711000" />
-      <workItem from="1662901488281" duration="2868000" />
+      <workItem from="1662901488281" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -146,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662904644508</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding experience">
+      <created>1662905155153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662905155153</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +177,7 @@
     <MESSAGE value="Remove projects" />
     <MESSAGE value="Add pdf" />
     <MESSAGE value="Add experiences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add experiences" />
+    <MESSAGE value="Adding experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding experience" />
   </component>
 </project>
