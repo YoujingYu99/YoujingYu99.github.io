@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf target="_blank">View PDF</a>
+<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View PDF</a>
 
 Education
 ======
