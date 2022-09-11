@@ -14,13 +14,14 @@ author_profile: true
    
 2. Oct 2022 - June 2023: Trinity College Badminton Club President
   *  Organisation: Trinity College Badminton Club
-  *  Overseeing four teams.
-  *  Organise trials, coachings, trainings, stash, social events and league matches.
+  *  Overseeing Women's Team and Men's First, Second and Third Team.
+  *  Organise trials, coaching, trainings, stash, social events and league matches.
 
 
 3. Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
-  *  Organisation: Trinity College Badminton Women's First Team
-  *  Organise trainings, matches and court bookings.
+  * Organisation: Trinity College Badminton Women's First Team
+  * Organise trainings, matches and court bookings.
+  * Devise and implement training strategies. 
 
 
 4. Jan 2017 - Dec 2018: Volunteer
