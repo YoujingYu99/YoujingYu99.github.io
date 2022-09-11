@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/markdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.html" beforeDir="false" />
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="Add experiences">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +22,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662897602956</updated>
       <workItem from="1662897604348" duration="3711000" />
-      <workItem from="1662901488281" duration="1456000" />
+      <workItem from="1662901488281" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -127,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662903182619</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Remove projects">
+      <created>1662903534427</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903534427</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add pdf">
+      <created>1662903750971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662903750971</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add experiences">
+      <created>1662904644508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662904644508</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +163,9 @@
     <MESSAGE value="Update Resume" />
     <MESSAGE value="Rename site" />
     <MESSAGE value="Add cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add cv" />
+    <MESSAGE value="Remove projects" />
+    <MESSAGE value="Add pdf" />
+    <MESSAGE value="Add experiences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add experiences" />
   </component>
 </project>
