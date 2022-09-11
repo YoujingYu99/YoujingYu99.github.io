@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662915644509</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add more images">
+      <created>1662916254428</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1662916254428</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +268,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change readme" />
     <MESSAGE value="Remove unnecessary files." />
     <MESSAGE value="Reformat pages." />
     <MESSAGE value="Check" />
@@ -286,6 +292,7 @@
     <MESSAGE value="Fix format" />
     <MESSAGE value="add info in about page" />
     <MESSAGE value="Add images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add images" />
+    <MESSAGE value="Add more images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more images" />
   </component>
 </project>
