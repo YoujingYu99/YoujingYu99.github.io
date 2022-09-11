@@ -8,3 +8,4 @@ location: "Hong Kong"
 
 * Performed image to image translations with Generative Adversarial Network (GAN) structures on hologram images, using deep learning neural networks.
 * Supervisor: Professor Edmund Lam
+* <a href="https://github.com/YoujingYu99/deep-learning-hologram">GitHub Repo</a>

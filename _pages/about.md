@@ -32,16 +32,18 @@ Courses Taken at University
   * 4M26	Algorithms and data structures
 
 * Third Year
-  * 3B2	Integrated digital electronics
+  * 3B2	Integrated digital electronics 
   * 3B5	Semiconductor engineering
   * 3E2	Marketing
   * 3F1	Signals and systems
   * 3F2	Systems and control
-  * 3F3	Statistical signal processing
+  * 3F3	Statistical signal processing <a href="https://github.com/YoujingYu99/IIA_3F3_Signal_Processing">GitHub Repo</a>
+  * 3F4	Data Transmission
   * 3F7	Information theory and coding
-  * 3F8	Inference
-  * 3G4	Medical imaging and 3-D computer graphics
+  * 3F8	Inference <a href="https://github.com/YoujingYu99/IIA_3F8_Inference">GitHub Repo</a>
   * 3M1	Mathematical methods
+  * SF1 Data Analysis Project <a href="https://github.com/YoujingYu99/IIA_SF1_Data_Analysis">GitHub Repo</a>
+  * GF2 Software Project <a href="https://github.com/YoujingYu99/logic_simulator">GitHub Repo</a>
 
 Skills
 ======
