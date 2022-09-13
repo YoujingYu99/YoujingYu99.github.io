@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_experience/1_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_confidence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <updated>1662897602956</updated>
       <workItem from="1662897604348" duration="3711000" />
       <workItem from="1662901488281" duration="3185000" />
-      <workItem from="1663074286899" duration="636000" />
+      <workItem from="1663074286899" duration="1145000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -343,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663074885929</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Fix format">
+      <created>1663075009186</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1663075009186</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +383,6 @@
     <MESSAGE value="Add git repo links" />
     <MESSAGE value="Reformatting files." />
     <MESSAGE value="Layout formatting issues." />
-    <MESSAGE value="Fix format" />
     <MESSAGE value="add info in about page" />
     <MESSAGE value="Add images" />
     <MESSAGE value="Add more images" />
@@ -387,6 +392,7 @@
     <MESSAGE value="Change width" />
     <MESSAGE value="reformatting" />
     <MESSAGE value="Add nanoparticle experience." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add nanoparticle experience." />
+    <MESSAGE value="Fix format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix format" />
   </component>
 </project>

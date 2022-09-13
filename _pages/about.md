@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello friends! My name is Youjing Yu, a fourth year student specialising in Information Engineering at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP) and am fortunate to be advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin in my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. Currently I am hoping to pursue a PhD in NLP, on educational chatbots. Feel free to get in touch if you want to know more about me! Checkout my research experiences, extra-curricular activities, courses taken and cv if you are interested!
+Hello friends! My name is Youjing Yu, a fourth year undergraduate student specialising in Information Engineering at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP) and am fortunate to be advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin in my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. Currently I am hoping to pursue a PhD in NLP, on educational chatbots. 
+
+In my free time, I have been a member of choir, chinese orchestra, tennis team, badminton team and I am currently the president of the Triniity College Badminton Club. I also play Guzheng (an ancient Chinese instrument) and the violin, and have been taking German lessons for four years. Feel free to get in touch if you want to know more about me! And don't forget to check out my research experiences, extra-curricular activities, courses taken and CV here!
 
 <a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View My CV</a>
 
