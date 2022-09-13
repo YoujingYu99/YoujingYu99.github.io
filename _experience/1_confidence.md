@@ -7,5 +7,6 @@ location: "London"
 ---
 
 * Currently working on confidence and user expertise detection and measurement on different conversational search systems (CSS) through common-sense reasoning in Natural Language Processing (NLP) using transformer-based multimodal deep neural networks.
+* Supervisor: Dr Aldo Lipani
 * Paper in writing.
 * Supervisor: Dr Aldo Lipani
