@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
       <workItem from="1662901488281" duration="3185000" />
       <workItem from="1663074286899" duration="1145000" />
       <workItem from="1663076082004" duration="398000" />
-      <workItem from="1663078220276" duration="627000" />
+      <workItem from="1663078220276" duration="1261000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -363,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663078244534</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Replace CV.">
+      <created>1663083295416</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1663083295416</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +391,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove projects" />
     <MESSAGE value="Add pdf" />
     <MESSAGE value="Add experiences" />
     <MESSAGE value="Adding experience" />
@@ -407,6 +415,7 @@
     <MESSAGE value="Fix format" />
     <MESSAGE value="Update my general information." />
     <MESSAGE value="Fix page name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix page name" />
+    <MESSAGE value="Replace CV." />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace CV." />
   </component>
 </project>
