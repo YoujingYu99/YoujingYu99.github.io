@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="adding paper information.">
+      <change afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/1_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_confidence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/2_data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/2_data_bias.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +63,7 @@
       <updated>1662897602956</updated>
       <workItem from="1662897604348" duration="3711000" />
       <workItem from="1662901488281" duration="3185000" />
+      <workItem from="1663074286899" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -325,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662926102632</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="reformatting">
+      <created>1662926605001</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1662926605001</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,9 +354,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix emails" />
     <MESSAGE value="Update Resume" />
     <MESSAGE value="Rename site" />
     <MESSAGE value="Add cv" />
@@ -368,6 +381,7 @@
     <MESSAGE value="add long hair image" />
     <MESSAGE value="Floats" />
     <MESSAGE value="Change width" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change width" />
+    <MESSAGE value="reformatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformatting" />
   </component>
 </project>
