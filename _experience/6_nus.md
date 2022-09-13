@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Research Intern"
+title: "Chemical Engineering Research Intern"
 collection: experience
 venue: "University of Singapore, Department of Building"
 type: "Mar 2017 - Jan 2018"
