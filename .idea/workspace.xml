@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +33,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
     </key>
   </component>
@@ -62,7 +62,9 @@
       <workItem from="1662901488281" duration="3185000" />
       <workItem from="1663074286899" duration="1145000" />
       <workItem from="1663076082004" duration="398000" />
-      <workItem from="1663078220276" duration="1261000" />
+      <workItem from="1663078220276" duration="1401000" />
+      <workItem from="1663145453053" duration="515000" />
+      <workItem from="1663147199022" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -372,7 +374,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663083295416</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Update title.">
+      <created>1663084579957</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1663084579957</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Reset time">
+      <created>1663084663356</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1663084663356</updated>
+    </task>
+    <task id="LOCAL-00047" summary="reformat sequence">
+      <created>1663084696134</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1663084696134</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,9 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add pdf" />
-    <MESSAGE value="Add experiences" />
-    <MESSAGE value="Adding experience" />
     <MESSAGE value="Reformat files." />
     <MESSAGE value="remove experiences" />
     <MESSAGE value="add back experiences" />
@@ -416,6 +436,9 @@
     <MESSAGE value="Update my general information." />
     <MESSAGE value="Fix page name" />
     <MESSAGE value="Replace CV." />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace CV." />
+    <MESSAGE value="Update title." />
+    <MESSAGE value="Reset time" />
+    <MESSAGE value="reformat sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat sequence" />
   </component>
 </project>
