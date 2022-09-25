@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +62,7 @@
       <workItem from="1663076082004" duration="398000" />
       <workItem from="1663078220276" duration="1401000" />
       <workItem from="1663145453053" duration="515000" />
-      <workItem from="1663147199022" duration="300000" />
+      <workItem from="1663147199022" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="Add files.">
       <created>1662897866761</created>
@@ -395,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663084696134</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Update CV">
+      <created>1663147520334</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1663147520335</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +419,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reformat files." />
     <MESSAGE value="remove experiences" />
     <MESSAGE value="add back experiences" />
     <MESSAGE value="Renaming experiences files." />
@@ -439,6 +443,7 @@
     <MESSAGE value="Update title." />
     <MESSAGE value="Reset time" />
     <MESSAGE value="reformat sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="reformat sequence" />
+    <MESSAGE value="Update CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CV" />
   </component>
 </project>
