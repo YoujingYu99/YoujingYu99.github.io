@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/4_spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_spacept.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/5_hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_hku.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
-    </list>
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,28 +64,7 @@
       <workItem from="1663145453053" duration="515000" />
       <workItem from="1663147199022" duration="327000" />
       <workItem from="1664124212321" duration="859000" />
-      <workItem from="1664708995821" duration="698000" />
-    </task>
-    <task id="LOCAL-00001" summary="Add files.">
-      <created>1662897866761</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1662897866761</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Change readme">
-      <created>1662898480218</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1662898480218</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Remove unnecessary files.">
-      <created>1662898993398</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1662898993398</updated>
+      <workItem from="1664708995821" duration="1786000" />
     </task>
     <task id="LOCAL-00004" summary="Reformat pages.">
       <created>1662899245512</created>
@@ -414,7 +388,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664124473266</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Updating research experiences.">
+      <created>1664710394890</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1664710394901</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Updating research experiences.">
+      <created>1664710769785</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1664710769787</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updating research experiences.">
+      <created>1664710795127</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1664710795128</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +428,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add back experiences" />
     <MESSAGE value="Renaming experiences files." />
     <MESSAGE value="Add HKU experience and course files." />
     <MESSAGE value="Change cv to activities" />
@@ -458,6 +452,7 @@
     <MESSAGE value="reformat sequence" />
     <MESSAGE value="Update CV" />
     <MESSAGE value="Adding description for recent project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding description for recent project." />
+    <MESSAGE value="Updating research experiences." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating research experiences." />
   </component>
 </project>
