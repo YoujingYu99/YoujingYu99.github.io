@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/Report-IRC.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/Report_hologram.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/poster_nus.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/5_hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_hku.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_nus.md" afterDir="false" />
-    </list>
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,14 +67,7 @@
       <workItem from="1664708995821" duration="1786000" />
       <workItem from="1664750534549" duration="148000" />
       <workItem from="1664750708777" duration="593000" />
-      <workItem from="1664801671891" duration="410000" />
-    </task>
-    <task id="LOCAL-00005" summary="Check">
-      <created>1662900198431</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1662900198431</updated>
+      <workItem from="1664801671891" duration="555000" />
     </task>
     <task id="LOCAL-00006" summary="Test">
       <created>1662900395262</created>
@@ -419,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664750665562</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Adding reports and poster.">
+      <created>1664802146654</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1664802146655</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +431,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add HKU experience and course files." />
     <MESSAGE value="Change cv to activities" />
     <MESSAGE value="Add git repo links" />
     <MESSAGE value="Reformatting files." />
@@ -463,6 +455,7 @@
     <MESSAGE value="Adding description for recent project." />
     <MESSAGE value="Updating research experiences." />
     <MESSAGE value="Update profile image." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update profile image." />
+    <MESSAGE value="Adding reports and poster." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding reports and poster." />
   </component>
 </project>

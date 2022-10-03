@@ -39,6 +39,7 @@ author_profile: true
    * Organisation: Son-rise Singapore
    * Responsible for interacting with an autistic child and try to gain their trust and friendship.
    * Played with an autistic child four hours a week. Taught the child basic words and phrases.
+   * <a href="http://YoujingYu99.github.io/files/cert_sonrise.pdf" target="_blank">View Certificate</a> 
   
 
 
