@@ -20,6 +20,29 @@ Education
 * A-Levels, Science Stream, Hwa Chong Institution, 2018
 * Secondary Education, Science Stream, Anderson Secondary School, 2016
 
+Awards
+======
+* Cambridge University Trinity College Senior Scholar  - July 2022;
+* Trinity College Examination Prize - July 2022;
+* Trinity College Summer Studentship - Mar 2022;
+* Cambridge University Trinity College Senior Scholar  - July 2021;
+* Trinity College Examination Prize - July 2021;
+* Cambridge Trust Overseas Scholarship - Mar 2019;
+* Trinity College Overseas Bursary - Mar 2019;
+* Hwa Chong Diploma with Distinction - 2018;
+* Singapore Science and Engineering Fair Silver Award - March 2018;
+* Singapore Youth Festival Gold Award - May 2017;
+* American Mathematics Competition Distinction - 2017;
+* Australian Mathematics Competition High Distinction - 2017;
+* Euclid Mathematics Contest Distinction - 2017;
+* Singapore Junior Physics Olympiad Silver Award - Oct 2016;
+* UNSW English Writing Competition High Distinction - 2016;
+* UNSW Mathematics Competition High Distinction - 2016;
+* OAAS Scholarship Award - 2016;
+* Singapore Youth Festival Gold Award - 2015;
+* Singapore Mathematical Olympiad Silver Award -2015;
+
+
 Courses Taken at University
 ======
 
