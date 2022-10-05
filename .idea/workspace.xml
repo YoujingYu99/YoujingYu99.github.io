@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +70,8 @@
       <workItem from="1664750534549" duration="148000" />
       <workItem from="1664750708777" duration="593000" />
       <workItem from="1664801671891" duration="555000" />
-      <workItem from="1664802431841" duration="1252000" />
-    </task>
-    <task id="LOCAL-00007" summary="Fix emails">
-      <created>1662900790386</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1662900790386</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update Resume">
-      <created>1662900904028</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1662900904028</updated>
+      <workItem from="1664802431841" duration="1539000" />
+      <workItem from="1664965410814" duration="340000" />
     </task>
     <task id="LOCAL-00009" summary="Rename site">
       <created>1662903141249</created>
@@ -416,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664802557356</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Adding awards.">
+      <created>1664803773432</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1664803773432</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Change name.">
+      <created>1664804024213</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1664804024213</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,8 +435,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add git repo links" />
-    <MESSAGE value="Reformatting files." />
     <MESSAGE value="Layout formatting issues." />
     <MESSAGE value="add info in about page" />
     <MESSAGE value="Add images" />
@@ -460,6 +458,8 @@
     <MESSAGE value="Update profile image." />
     <MESSAGE value="Adding reports and poster." />
     <MESSAGE value="Adding certificate for volunteering." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding certificate for volunteering." />
+    <MESSAGE value="Adding awards." />
+    <MESSAGE value="Change name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change name." />
   </component>
 </project>
