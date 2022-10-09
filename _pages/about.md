@@ -48,13 +48,14 @@ Courses Taken at University
 
 * Fourth year: 
   * 4E6	Accounting and finance
-  * 4F1	Control system design
-  * 4F10	Deep learning and structured data
-  * 4F13	Probabilistic machine learning
-  * 4F2	Robust and non-linear control
+  * 4F10 Deep learning and structured data
+  * 4F13 Probabilistic machine learning
   * 4F7	Statistical Signal Analysis
   * 4G3	Computational neuroscience
-  * 4M26	Algorithms and data structures
+  * 4F5	Advanced information theory and coding
+  * 4M21 Software engineering and design
+  * 4M24 Computational statistics and machine learning
+
 
 * Third Year
   * 3B2	Integrated digital electronics 
