@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="" />
+    <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/1_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_confidence.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,13 +73,8 @@
       <workItem from="1664801671891" duration="555000" />
       <workItem from="1664802431841" duration="1539000" />
       <workItem from="1664965410814" duration="495000" />
-    </task>
-    <task id="LOCAL-00010" summary="Add cv">
-      <created>1662903182619</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1662903182619</updated>
+      <workItem from="1665326454357" duration="227000" />
+      <workItem from="1666348984313" duration="32000" />
     </task>
     <task id="LOCAL-00011" summary="Remove projects">
       <created>1662903534427</created>
@@ -414,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664965888987</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Updating modules.">
+      <created>1665326582079</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1665326582080</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +438,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add info in about page" />
     <MESSAGE value="Add images" />
     <MESSAGE value="Add more images" />
     <MESSAGE value="Image reformatting" />
@@ -458,6 +462,7 @@
     <MESSAGE value="Adding awards." />
     <MESSAGE value="Change name." />
     <MESSAGE value="Update description." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update description." />
+    <MESSAGE value="Updating modules." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating modules." />
   </component>
 </project>
