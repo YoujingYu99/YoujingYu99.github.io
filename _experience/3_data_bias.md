@@ -8,5 +8,5 @@ location: "Cambridge"
 
 * Developed a web-based interface for Natural Language Processing(NLP) text corpora that enables gender biases to be revealed visually and interactively. A Flask-based web framework was created where the user can upload their corpora through inputting plain text, URL or txt files. Two NLP algorithms will run, namely the Bias Score Calculation algorithm based on word embedding and sentence parsing. Bias scores associated with each token and specific sentence structures are returned to the user. Interactive pivot tables, bar graphs, word clouds, PCA and TSNE graphs are provided for the user to explore and extract information.
 * Supervisor: Dr Marcus Tomalin
-* Paper in Submission to Digital Scholarship in the Humanities.
+* Paper under review at Digital Scholarship in the Humanities.
 * <a href="https://github.com/YoujingYu99/visualising_data_bias">GitHub Repo</a>
