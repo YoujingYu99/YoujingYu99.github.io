@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_experience/2_confidence.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/1_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_eyetracker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/2_data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/3_data_bias.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/3_car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_car_plate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/4_spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_spacept.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/5_hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/6_hku.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/6_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/7_nus.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +74,8 @@
       <workItem from="1664965410814" duration="495000" />
       <workItem from="1665326454357" duration="227000" />
       <workItem from="1666348984313" duration="70000" />
-      <workItem from="1666643090458" duration="232000" />
-    </task>
-    <task id="LOCAL-00012" summary="Add pdf">
-      <created>1662903750971</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1662903750971</updated>
+      <workItem from="1666643090458" duration="256000" />
+      <workItem from="1666699718722" duration="35000" />
     </task>
     <task id="LOCAL-00013" summary="Add experiences">
       <created>1662904644508</created>
@@ -426,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666349035074</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Updating research experiences.">
+      <created>1666643341519</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1666643341535</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +455,6 @@
     <MESSAGE value="reformat sequence" />
     <MESSAGE value="Update CV" />
     <MESSAGE value="Adding description for recent project." />
-    <MESSAGE value="Updating research experiences." />
     <MESSAGE value="Update profile image." />
     <MESSAGE value="Adding reports and poster." />
     <MESSAGE value="Adding certificate for volunteering." />
@@ -470,6 +463,7 @@
     <MESSAGE value="Update description." />
     <MESSAGE value="Updating modules." />
     <MESSAGE value="Status change of papers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Status change of papers." />
+    <MESSAGE value="Updating research experiences." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating research experiences." />
   </component>
 </project>
