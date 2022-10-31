@@ -76,10 +76,9 @@ Skills
 * Microsoft Office
 * Programming Languages
   * Python
-  * Javascript
+  * JavaScript
   * Matlab
   * C++
-  * Ocaml
   * SQL
 * Web Design
 * Languages

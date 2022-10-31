@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_experience" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\files" />
+      <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_experience" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io" />
       <recent name="C:\Users\Youjing Yu\PycharmProjects\YoujingYu99.github.io\_pages" />
     </key>
@@ -76,13 +77,8 @@
       <workItem from="1666348984313" duration="70000" />
       <workItem from="1666643090458" duration="256000" />
       <workItem from="1666699718722" duration="35000" />
-    </task>
-    <task id="LOCAL-00013" summary="Add experiences">
-      <created>1662904644508</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1662904644508</updated>
+      <workItem from="1667238444620" duration="217000" />
+      <workItem from="1667238751391" duration="30000" />
     </task>
     <task id="LOCAL-00014" summary="Adding experience">
       <created>1662905155153</created>
@@ -420,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666643341535</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Update CV and experiences">
+      <created>1667238562171</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1667238562172</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,7 +442,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add more images" />
     <MESSAGE value="Image reformatting" />
     <MESSAGE value="add long hair image" />
     <MESSAGE value="Floats" />
@@ -464,6 +466,7 @@
     <MESSAGE value="Updating modules." />
     <MESSAGE value="Status change of papers." />
     <MESSAGE value="Updating research experiences." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating research experiences." />
+    <MESSAGE value="Update CV and experiences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CV and experiences" />
   </component>
 </project>
