@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
@@ -78,14 +79,9 @@
       <workItem from="1666643090458" duration="256000" />
       <workItem from="1666699718722" duration="35000" />
       <workItem from="1667238444620" duration="217000" />
-      <workItem from="1667238751391" duration="30000" />
-    </task>
-    <task id="LOCAL-00014" summary="Adding experience">
-      <created>1662905155153</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1662905155153</updated>
+      <workItem from="1667238751391" duration="58000" />
+      <workItem from="1667247926038" duration="58000" />
+      <workItem from="1670077292445" duration="827000" />
     </task>
     <task id="LOCAL-00015" summary="Reformat files.">
       <created>1662907607145</created>
@@ -423,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667238562172</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Update CV and experiences">
+      <created>1667238798584</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1667238798585</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
