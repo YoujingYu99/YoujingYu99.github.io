@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/files/Yu_yy471_final_report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/1_eyetracker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_eyetracker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/2_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/2_confidence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/3_data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/3_data_bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/4_car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_car_plate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/5_spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_spacept.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experience/7_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/7_nus.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/activities.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/activities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CV_Youjing_YU.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV_Youjing_YU.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -83,14 +93,7 @@
       <workItem from="1670077292445" duration="901000" />
       <workItem from="1670082601746" duration="30000" />
       <workItem from="1686212902077" duration="26000" />
-      <workItem from="1696096771142" duration="479000" />
-    </task>
-    <task id="LOCAL-00016" summary="remove experiences">
-      <created>1662907687832</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662907687832</updated>
+      <workItem from="1696096771142" duration="4478000" />
     </task>
     <task id="LOCAL-00017" summary="add back experiences">
       <created>1662907841848</created>
@@ -428,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670079273237</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Update about biography.">
+      <created>1696097545860</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1696097545860</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +457,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add long hair image" />
     <MESSAGE value="Floats" />
     <MESSAGE value="Change width" />
     <MESSAGE value="reformatting" />
@@ -472,6 +481,7 @@
     <MESSAGE value="Updating research experiences." />
     <MESSAGE value="Update CV and experiences" />
     <MESSAGE value="Update CVs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update CVs" />
+    <MESSAGE value="Update about biography." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update about biography." />
   </component>
 </project>

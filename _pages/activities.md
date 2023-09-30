@@ -19,8 +19,8 @@ author_profile: true
 
 2. Oct 2022 - June 2023: Trinity College Badminton Club President
    * Organisation: Trinity College Badminton Club
-   * Overseeing Women's Team and Men's First, Second and Third Team.
-   * Organise trials, coaching, trainings, stash, social events and league matches.
+   * Oversaw Women's Team and Men's First, Second and Third Team.
+   * Organised trials, coaching, trainings, stash, social events and league matches.
   
    ![Badminton](/images/badminton.jpg){: width="700", : style="float: center; margin: 500px"}
 
@@ -28,8 +28,8 @@ author_profile: true
 
 3. Oct 2021 - June 2022: Trinity College Badminton Women's First Team Captain
    * Organisation: Trinity College Badminton Women's First Team
-   * Organise trainings, matches and court bookings.
-   * Devise and implement training strategies. 
+   * Organised trainings, matches and court bookings.
+   * Devised and implemented training strategies. 
 
    ![Badminton](/images/badminton2.jpg){: width="700", : style="float: center; margin: 500px"}
 
@@ -46,7 +46,7 @@ author_profile: true
 5. Jan 2017 - Dec 2018: Team Member
    * Organisation: Hwa Chong Institution Tennis Team
    * Represented Hwa Chong Institution Girls' Tennis in inter-school games.
-   * Silver award.
+   * Silver award at inter-school games.
 
    ![Tennis](/images/tennis.jpg){: width="700", : style="float: center; margin: 500px;"}
 

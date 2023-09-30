@@ -2,10 +2,14 @@
 title: "NLP Student Researcher"
 collection: experience
 venue: "University College London, Department of Computer Science"
-type: "Dec 2021 - PRESENT"
+type: "Dec 2021 - Oct 2022"
 location: "London"
 ---
 
-* Currently working on speech and text-based user confidence and expertise detection and measurement on conversational search systems (CSS) in Natural Language Processing (NLP) using transformer-based multimodal deep neural networks. The dataset of user queries was prepared from Spotify Podcast, with the use of the word-level transcript to segment out questions. Feature extraction was done on the audio on energy entropy, spectral centroids, zero-crossing rate, chroma CQT etc. We crowdsourced using Amazon Mturk service to obtain confidence scores based on audio files. We then trained a text and audio multimodal regression network using pretrained BERT and HuBERT models to predict human confidence scores. Our model showed a human-level performance in confidence score prediction.
+* Joined the Web Intelligence Research Group and supervised by Dr Aldo Lipani. Check out https://wi.cs.ucl.ac.uk/index.php/people/ 
+* Worked on speech and text-based user confidence and expertise detection and measurement in conversational search systems (CSS) using transformer-based multimodal deep neural networks.
+* Prepared a dataset of user queries named UNSURE from Spotify Podcast, with the use of the word-level transcript to segment out questions.
+* Crowdsourced using Amazon Mturk service to obtain confidence scores based on the segmented audio files. Performed quality control on collected answers and conducted user agreement analysis.
+* Trained a text and audio multimodal regression network using pretrained BERT and HuBERT models to predict human confidence scores. Our model showed a human-level performance in confidence score prediction.
+* Paper under review at Special Interest Group on Information Retrieval (SIGIR).
 * Supervisor: Dr Aldo Lipani
-* Paper under review at EACL.

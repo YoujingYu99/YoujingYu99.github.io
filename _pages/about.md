@@ -18,14 +18,14 @@ In my free time, I have been a member of choir, chinese orchestra, tennis team, 
 Education
 ======
 * MEng in Information and Computer Engineering, University of Cambridge, 2023 
-* BA in  Information and Computer Engineering, University of Cambridge, 2022
+* BA in Information and Computer Engineering, University of Cambridge, 2022
 * A-Levels, Science Stream, Hwa Chong Institution, 2018
 * Secondary Education, Science Stream, Anderson Secondary School, 2016
 
 Awards
 ======
 
-* Prince of Wales Student - July 2023;
+* Prince of Wales Student Award - July 2023;
 * Trinity College Examination Prize - July 2023;
 * AT&T Prize for Information and Communications Engineering - June 2023;
 * Cambridge University Trinity College Senior Scholar  - July 2022;
@@ -54,12 +54,12 @@ Courses Taken at University
 
 * Fourth year: 
   * 4E6	Accounting and finance
+  * 4F3 An optimisation-based approach to control
   * 4F10 Deep learning and structured data
   * 4F13 Probabilistic machine learning
   * 4F7	Statistical Signal Analysis
   * 4G3	Computational neuroscience
   * 4F5	Advanced information theory and coding
-  * 4M21 Software engineering and design
   * 4M24 Computational statistics and machine learning
 
 
@@ -69,10 +69,10 @@ Courses Taken at University
   * 3E2	Marketing
   * 3F1	Signals and systems
   * 3F2	Systems and control
-  * 3F3	Statistical signal processing <a href="https://github.com/YoujingYu99/IIA_3F3_Signal_Processing">GitHub Repo</a>
+  * 3F3	Statistical signal processing
   * 3F4	Data Transmission
   * 3F7	Information theory and coding
-  * 3F8	Inference <a href="https://github.com/YoujingYu99/IIA_3F8_Inference">GitHub Repo</a>
+  * 3F8	Inference
   * 3M1	Mathematical methods
   * SF1 Data Analysis Project <a href="https://github.com/YoujingYu99/IIA_SF1_Data_Analysis">GitHub Repo</a>
   * GF2 Software Project <a href="https://github.com/YoujingYu99/logic_simulator">GitHub Repo</a>
@@ -83,10 +83,13 @@ Skills
 * Programming Languages
   * Python
   * JavaScript
-  * Matlab
+  * MATLAB
   * C++
   * SQL
 * Web Design
+  * Bootstrap
+  * CSS
+  * jQuery
 * Languages
   *  English (Full working proficiency)
   *  Chinese (Native)
