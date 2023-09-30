@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello friends! My name is Youjing Yu, a fourth year undergraduate student specialising in Information Engineering at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP) and am fortunate to be advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin in my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. Currently I am hoping to pursue a PhD in NLP, on educational chatbots. 
+Hello friends! My name is Youjing Yu, currently a PhD student supervised by the wonderful Dr Guillaume Hennequin at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP). I am fortunate to have been advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin on my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. 
 
 In my free time, I have been a member of choir, chinese orchestra, tennis team, badminton team and I am currently the president of the Trinity College Badminton Club. I also play Guzheng (an ancient Chinese instrument) and the violin, and have been taking German lessons for four years. Feel free to get in touch if you want to know more about me! And don't forget to check out my research experiences, extra-curricular activities, courses taken and CV here!
 
@@ -17,12 +17,17 @@ In my free time, I have been a member of choir, chinese orchestra, tennis team, 
 
 Education
 ======
-* MEng in Information Engineering, Univeristy of Cambridge, 2023 (expected)
+* MEng in Information and Computer Engineering, University of Cambridge, 2023 
+* BA in  Information and Computer Engineering, University of Cambridge, 2022
 * A-Levels, Science Stream, Hwa Chong Institution, 2018
 * Secondary Education, Science Stream, Anderson Secondary School, 2016
 
 Awards
 ======
+
+* Prince of Wales Student - July 2023;
+* Trinity College Examination Prize - July 2023;
+* AT&T Prize for Information and Communications Engineering - June 2023;
 * Cambridge University Trinity College Senior Scholar  - July 2022;
 * Trinity College Examination Prize - July 2022;
 * Trinity College Summer Studentship - Mar 2022;

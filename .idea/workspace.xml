@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
@@ -30,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -81,14 +80,10 @@
       <workItem from="1667238444620" duration="217000" />
       <workItem from="1667238751391" duration="58000" />
       <workItem from="1667247926038" duration="58000" />
-      <workItem from="1670077292445" duration="827000" />
-    </task>
-    <task id="LOCAL-00015" summary="Reformat files.">
-      <created>1662907607145</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1662907607145</updated>
+      <workItem from="1670077292445" duration="901000" />
+      <workItem from="1670082601746" duration="30000" />
+      <workItem from="1686212902077" duration="26000" />
+      <workItem from="1696096771142" duration="479000" />
     </task>
     <task id="LOCAL-00016" summary="remove experiences">
       <created>1662907687832</created>
@@ -426,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667238798585</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Update CVs">
+      <created>1670079273236</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1670079273237</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +447,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Image reformatting" />
     <MESSAGE value="add long hair image" />
     <MESSAGE value="Floats" />
     <MESSAGE value="Change width" />
@@ -470,6 +471,7 @@
     <MESSAGE value="Status change of papers." />
     <MESSAGE value="Updating research experiences." />
     <MESSAGE value="Update CV and experiences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update CV and experiences" />
+    <MESSAGE value="Update CVs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CVs" />
   </component>
 </project>
