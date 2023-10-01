@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  experience:
+  experiences:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -203,10 +203,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _experience
+  # _experiences
   - scope:
       path: ""
-      type: experience
+      type: experiences
     values:
       layout: single
       author_profile: true
