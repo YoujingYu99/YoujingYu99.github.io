@@ -1,6 +1,6 @@
 ---
 title: "Student Research Intern"
-collection: experience
+collection: experiences
 venue: "SpacePT"
 type: "Winter 2020"
 location: "Cambridge"

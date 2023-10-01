@@ -1,6 +1,6 @@
 ---
 title: "NLP Student Researcher"
-collection: experience
+collection: experiences
 venue: "University College London, Department of Computer Science"
 type: "Dec 2021 - Oct 2022"
 location: "London"

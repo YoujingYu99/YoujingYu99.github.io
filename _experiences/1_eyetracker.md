@@ -1,6 +1,6 @@
 ---
 title: "Neuroscience Student Researcher"
-collection: experience
+collection: experiences
 venue: "University of Cambridge, Department of Engineering"
 type: "Oct 2022 - Jun 2023"
 location: "Cambridge"

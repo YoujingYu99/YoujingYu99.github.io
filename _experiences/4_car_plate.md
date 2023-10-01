@@ -1,6 +1,6 @@
 ---
 title: "Research Assistant"
-collection: experience
+collection: experiences
 venue: "University of Cambridge, Department of Engineering"
 type: "Spring 2021"
 location: "Cambridge"

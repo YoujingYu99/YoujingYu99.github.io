@@ -1,6 +1,6 @@
 ---
 title: "Chemical Engineering Assistant Researcher"
-collection: experience
+collection: experiences
 venue: "University of Singapore, Department of Building"
 type: "Mar 2017 - Jan 2018"
 location: "Singapore"
