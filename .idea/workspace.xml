@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/Yu_yy471_final_report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/1_eyetracker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/1_eyetracker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/2_confidence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/2_confidence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/3_data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/3_data_bias.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/4_car_plate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/4_car_plate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/5_spacept.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/5_spacept.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_experience/7_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experience/7_nus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/activities.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/activities.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CV_Youjing_YU.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV_Youjing_YU.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV_Youjing_YU_short.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,14 +82,9 @@
       <workItem from="1670077292445" duration="901000" />
       <workItem from="1670082601746" duration="30000" />
       <workItem from="1686212902077" duration="26000" />
-      <workItem from="1696096771142" duration="4478000" />
-    </task>
-    <task id="LOCAL-00017" summary="add back experiences">
-      <created>1662907841848</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1662907841848</updated>
+      <workItem from="1696096771142" duration="4770000" />
+      <workItem from="1696112928562" duration="58000" />
+      <workItem from="1696113024965" duration="631000" />
     </task>
     <task id="LOCAL-00018" summary="Renaming experiences files.">
       <created>1662908144433</created>
@@ -438,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696097545860</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Update experiences">
+      <created>1696112691721</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1696112691721</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +448,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Floats" />
     <MESSAGE value="Change width" />
     <MESSAGE value="reformatting" />
     <MESSAGE value="Add nanoparticle experience." />
@@ -482,6 +472,7 @@
     <MESSAGE value="Update CV and experiences" />
     <MESSAGE value="Update CVs" />
     <MESSAGE value="Update about biography." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update about biography." />
+    <MESSAGE value="Update experiences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update experiences" />
   </component>
 </project>
