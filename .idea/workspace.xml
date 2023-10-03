@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d87a15d-9339-487e-aaa4-4121eab00eb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experiences/3_data_bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experiences/3_data_bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experiences/6_hku.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experiences/6_hku.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_experiences/7_nus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_experiences/7_nus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Report_IRC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Report_hologram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/poster_nus.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +93,8 @@
       <workItem from="1696113024965" duration="631000" />
       <workItem from="1696118488756" duration="85000" />
       <workItem from="1696157923690" duration="744000" />
-      <workItem from="1696158738518" duration="375000" />
-    </task>
-    <task id="LOCAL-00021" summary="Add git repo links">
-      <created>1662910267128</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1662910267128</updated>
+      <workItem from="1696158738518" duration="526000" />
+      <workItem from="1696324207378" duration="330000" />
     </task>
     <task id="LOCAL-00022" summary="Reformatting files.">
       <created>1662910571776</created>
@@ -435,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696158793717</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Renaming experience to experiences in all files">
+      <created>1696159128922</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1696159128922</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +458,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reformatting" />
     <MESSAGE value="Add nanoparticle experience." />
     <MESSAGE value="Fix format" />
     <MESSAGE value="Update my general information." />
@@ -479,6 +482,7 @@
     <MESSAGE value="Update about biography." />
     <MESSAGE value="Add eyetracker repo" />
     <MESSAGE value="Update experiences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update experiences" />
+    <MESSAGE value="Renaming experience to experiences in all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming experience to experiences in all files" />
   </component>
 </project>
