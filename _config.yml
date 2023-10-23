@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youjing Yu"
 title_separator          : "-"
 name                     : &name "Youjing Yu"
-description              : &description "Information Engineering Undergraduate at University of Cambridge"
+description              : &description "Engineering PhD Student at University of Cambridge"
 url                      : https://youjingyu99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YoujingYu99/YoujingYu99.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Youjing YU"
   avatar           : "among.jpg"
-  bio              : "Information Engineering Undergraduate at University of Cambridge"
+  bio              : "Engineering PhD Student at University of Cambridge"
   location         : "Cambridge, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
