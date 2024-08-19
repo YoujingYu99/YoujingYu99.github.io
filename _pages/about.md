@@ -12,8 +12,12 @@ Hello friends! My name is Youjing Yu, currently a PhD student supervised by the 
 
 In my free time, I have been a member of choir, chinese orchestra, tennis team, badminton team and I am currently the president of the Trinity College Badminton Club. I also play Guzheng (an ancient Chinese instrument) and the violin, and have been taking German lessons for four years. Feel free to get in touch if you want to know more about me! And don't forget to check out my research experiences, extra-curricular activities, courses taken and CV here!
 
-<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View My Short (Painless) CV</a>
-<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU_short.pdf" target="_blank">View My Long (Painful) CV</a>
+<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View My CV</a>
+
+
+Publications
+======
+* Yu, Youjing, Zhengxiang Shi, and Aldo Lipani. <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">"Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems."</a> <em>In International Conference on Engineering Applications of Neural Networks</em>, pp. 405-418. Cham: Springer Nature Switzerland, 2024. 
 
 Education
 ======
@@ -24,7 +28,10 @@ Education
 
 Awards
 ======
-
+* Cambridge University Research Scholar - Oct 2023 
+* Trinity College Internal Graduate Scholarship – Aug 2023; 
+* Trinity College Mathison Prize - Aug 2023; 
+* Trinity College Richard and Valery Garrett Prize - Aug 2023; 
 * Prince of Wales Student Award - July 2023;
 * Trinity College Examination Prize - July 2023;
 * AT&T Prize for Information and Communications Engineering - June 2023;
@@ -51,7 +58,6 @@ Awards
 
 Courses Taken at University
 ======
-
 * Fourth year: 
   * 4E6	Accounting and finance
   * 4F3 An optimisation-based approach to control
@@ -81,6 +87,7 @@ Skills
 ======
 * Microsoft Office
 * Programming Languages
+  * Ocaml
   * Python
   * JavaScript
   * MATLAB
