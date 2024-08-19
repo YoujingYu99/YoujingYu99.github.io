@@ -11,5 +11,5 @@ location: "London"
 * Prepared a dataset of user queries named UNSURE from Spotify Podcast, with the use of the word-level transcript to segment out questions.
 * Crowdsourced using Amazon Mturk service to obtain confidence scores based on the segmented audio files. Performed quality control on collected answers and conducted user agreement analysis.
 * Trained a text and audio multimodal regression network using pretrained BERT and HuBERT models to predict human confidence scores. Our model showed a human-level performance in confidence score prediction.
-* Paper published at International Conference on Engineering Applications of Neural Networks (EANN). Check it out <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">here</a>!
+* Paper published at International Conference on Engineering Applications of Neural Networks (EANN). Check out <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">the paper</a> and <a href="https://github.com/YoujingYu99/confidence_css">the GitHub repo</a>!
 * Supervisor: Dr Aldo Lipani
