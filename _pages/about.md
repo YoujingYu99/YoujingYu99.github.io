@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello friends! My name is Youjing Yu, currently a PhD student supervised by the wonderful Dr Guillaume Hennequin at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP). I am fortunate to have been advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin on my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. 
+Hello friends! My name is Youjing Yu, currently a PhD student supervised by Dr Guillaume Hennequin at the University of Cambridge. I have done research in modern holography, computer vision, and natural language processing (NLP). I am fortunate to have been advised by Dr Aldo Lipani on my research project on confidence detection in conversational search systems and by Dr Guillaume Hennequin on my Masters' project on Webcam-based Eye Tracking for Psychophysics Experiments. 
 
-In my free time, I have been a member of choir, chinese orchestra, tennis team, badminton team and I am currently the president of the Trinity College Badminton Club. I also play Guzheng (an ancient Chinese instrument) and the violin, and have been taking German lessons for four years. Feel free to get in touch if you want to know more about me! And don't forget to check out my research experiences, extra-curricular activities, courses taken and CV here!
+In my free time, I have been a member of choir, chinese orchestra, tennis team and badminton team. I also play Guzheng (an ancient Chinese instrument) and the violin, and have been taking German lessons for four years. Feel free to get in touch if you want to know more about me! And don't forget to check out my research experiences, extra-curricular activities, courses taken and CV here!
 
-<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU.pdf" target="_blank">View My CV</a>
+<a href="http://YoujingYu99.github.io/files/CV_Youjing_YU_short.pdf" target="_blank">View My CV</a>
 
 
 Publications
 ======
 * Yu, Youjing, Zhengxiang Shi, and Aldo Lipani. <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">"Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems."</a> <em>In International Conference on Engineering Applications of Neural Networks</em>, pp. 405-418. Cham: Springer Nature Switzerland, 2024. 
+* Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). " Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>.
 
 Education
 ======
@@ -45,15 +46,7 @@ Awards
 * Hwa Chong Diploma with Distinction - 2018;
 * Singapore Science and Engineering Fair Silver Award - March 2018;
 * Singapore Youth Festival Gold Award - May 2017;
-* American Mathematics Competition Distinction - 2017;
-* Australian Mathematics Competition High Distinction - 2017;
-* Euclid Mathematics Contest Distinction - 2017;
-* Singapore Junior Physics Olympiad Silver Award - Oct 2016;
-* UNSW English Writing Competition High Distinction - 2016;
-* UNSW Mathematics Competition High Distinction - 2016;
-* OAAS Scholarship Award - 2016;
-* Singapore Youth Festival Gold Award - 2015;
-* Singapore Mathematical Olympiad Silver Award -2015;
+
 
 
 Courses Taken at University
