@@ -18,7 +18,7 @@ In my free time, I have been a member of choir, chinese orchestra, tennis team a
 Publications
 ======
 * Yu, Youjing, Zhengxiang Shi, and Aldo Lipani. <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">"Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems."</a> <em>In International Conference on Engineering Applications of Neural Networks</em>, pp. 405-418. Cham: Springer Nature Switzerland, 2024. 
-* Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). <a href="https://openreview.net/forum?id=Pox8jNQOo5&noteId=suDW6sDpSb">"Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>.
+* Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). <a href="https://openreview.net/forum?id=Pox8jNQOo5&note">"Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>.
 
 Education
 ======
