@@ -18,10 +18,11 @@ In my free time, I have been a member of choir, chinese orchestra, tennis team a
 Publications
 ======
 * Yu, Youjing, Zhengxiang Shi, and Aldo Lipani. <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">"Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems."</a> <em>In International Conference on Engineering Applications of Neural Networks</em>, pp. 405-418. Cham: Springer Nature Switzerland, 2024. 
-* Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). " Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>.
+* Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). <a href="https://openreview.net/forum?id=Pox8jNQOo5&noteId=suDW6sDpSb">"Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>.
 
 Education
 ======
+* PhD (student) in Information and Computer Engineering, University of Cambridge, 2023 -  
 * MEng in Information and Computer Engineering, University of Cambridge, 2023 
 * BA in Information and Computer Engineering, University of Cambridge, 2022
 * A-Levels, Science Stream, Hwa Chong Institution, 2018
@@ -48,33 +49,6 @@ Awards
 * Singapore Youth Festival Gold Award - May 2017;
 
 
-
-Courses Taken at University
-======
-* Fourth year: 
-  * 4E6	Accounting and finance
-  * 4F3 An optimisation-based approach to control
-  * 4F10 Deep learning and structured data
-  * 4F13 Probabilistic machine learning
-  * 4F7	Statistical Signal Analysis
-  * 4G3	Computational neuroscience
-  * 4F5	Advanced information theory and coding
-  * 4M24 Computational statistics and machine learning
-
-
-* Third Year
-  * 3B2	Integrated digital electronics 
-  * 3B5	Semiconductor engineering
-  * 3E2	Marketing
-  * 3F1	Signals and systems
-  * 3F2	Systems and control
-  * 3F3	Statistical signal processing
-  * 3F4	Data Transmission
-  * 3F7	Information theory and coding
-  * 3F8	Inference
-  * 3M1	Mathematical methods
-  * SF1 Data Analysis Project <a href="https://github.com/YoujingYu99/IIA_SF1_Data_Analysis">GitHub Repo</a>
-  * GF2 Software Project <a href="https://github.com/YoujingYu99/logic_simulator">GitHub Repo</a>
 
 Skills
 ======
