@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Research Intern"
-collection: experiences
+collection: work_experiences
 venue: "MediaTek Research"
 type: "Oct 2025 - Feb 2026"
 location: "Cambourne"

@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Engineer Intern"
-collection: experiences
+collection: work_experiences
 venue: "Myrtle.ai"
 type: "Jul 2025 - Sep 2025"
 location: "Cambridge"
