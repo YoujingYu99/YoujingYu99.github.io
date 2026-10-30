@@ -1,6 +1,7 @@
 ---
 title: "SOFO Project"
 collection: experiences
+venue: "University of Cambridge, Department of Engineering"
 ---
 
 * Developed SOFO, a second-order subspace Gauss-Newton optimiser that uses parallelised forward-mode differentiation instead of backpropagation, achieving constant memory complexity with respect to sequence length. 
