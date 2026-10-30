@@ -19,21 +19,23 @@ Publications
 ======
 <!-- * Yu, Youjing, Zhengxiang Shi, and Aldo Lipani. <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">"Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems."</a> <em>In International Conference on Engineering Applications of Neural Networks</em>, pp. 405-418. Cham: Springer Nature Switzerland, 2024. 
 * Yu, Youjing, Rui Xia, Qingxi Ma, Máté Lengyel and Guillaume Hennequin (in press). <a href="https://openreview.net/forum?id=Pox8jNQOo5&note">"Second-order forward-mode optimization of recurrent neural networks for neuroscience " <em>In Advances in Neural Information Processing Systems<em>. -->
-* Yu, Y., Shi, Z., & Lipani, A. (2024, June). <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems.</a> <em>In International Conference on Engineering Applications of Neural Networks (pp. 405-418)</em>. Cham: Springer Nature Switzerland.
-* Yu, Y., Xia, R., Ma, Q., Lengyel, M., & Hennequin, G. (2024). <a href="https://proceedings.neurips.cc/paper_files/pExploiting%20weight-exp%20symmetries%20for%20approximating%20curvatureaper/2024/hash/a791a086d7643ecf53608e57cd5889f0-Abstract-Conference.html">Second-order forward-mode optimization of recurrent neural networks for neuroscience.</a> <em> Advances in Neural Information Processing Systems</em>, 37, 92101-92129. 
+* **Yu, Y.**, Shi, Z., & Lipani, A. (2024, June). <a href="https://link.springer.com/chapter/10.1007/978-3-031-62495-7_31">Understanding Users’ Confidence in Spoken Queries for Conversational Search Systems.</a> <em>In International Conference on Engineering Applications of Neural Networks (pp. 405-418)</em>. Cham: Springer Nature Switzerland.
+* **Yu, Y.**, Xia, R., Ma, Q., Lengyel, M., & Hennequin, G. (2024). <a href="https://proceedings.neurips.cc/paper_files/pExploiting%20weight-exp%20symmetries%20for%20approximating%20curvatureaper/2024/hash/a791a086d7643ecf53608e57cd5889f0-Abstract-Conference.html">Second-order forward-mode optimization of recurrent neural networks for neuroscience.</a> <em> Advances in Neural Information Processing Systems</em>, 37, 92101-92129. 
+* Artemev, A., Xia, R., Boyd, B. M., **Yu, Y.**, Dangel, F., Hennequin, G., & Bernacchia, A. (2026). <a href="https://proceedings.mlr.press/v306/artemev26a.html">Exploiting weight-space symmetries for approximating curvature.</a> <em> In Proceedings of the 43rd International Conference on Machine Learning</em>, Proceedings of Machine Learning Research, 306, 3856–3890.
+* Walker, S., **Yu, Y.**, Atkins, N. A Data-Driven Approach for Generalisable Prediction of Hot Gas Ingestion Across Unseen Geometries. (under review)
 
 Education
 ======
-* PhD (student) in Information and Computer Engineering, University of Cambridge, 2023 -  
-* MEng in Information and Computer Engineering, University of Cambridge, 2023 
-* BA in Information and Computer Engineering, University of Cambridge, 2022
-* A-Levels, Science Stream, Hwa Chong Institution, 2018
-* Secondary Education, Science Stream, Anderson Secondary School, 2016
+* PhD (student) in Information and Computer Engineering, University of Cambridge, 2023 - Present
+* MEng in Information and Computer Engineering, University of Cambridge, 2022 - 2023 
+* BA in Information and Computer Engineering, University of Cambridge, 2019 - 2022
+* A-Levels, Science Stream, Hwa Chong Institution, 2017 - 2018
+
 
 Awards
 ======
 * Cambridge University Research Scholar - Oct 2023 
-* Trinity College Internal Graduate Scholarship – Aug 2023; 
+* Trinity College Internal Graduate Studentship – Aug 2023; 
 * Trinity College Mathison Prize - Aug 2023; 
 * Trinity College Richard and Valery Garrett Prize - Aug 2023; 
 * Prince of Wales Student Award - July 2023;
@@ -56,12 +58,11 @@ Skills
 ======
 * Microsoft Office
 * Programming Languages
-  * Ocaml
+  * OCaml
   * Python
   * JavaScript
   * MATLAB
   * C++
-  * SQL
 * Web Design
   * Bootstrap
   * CSS
