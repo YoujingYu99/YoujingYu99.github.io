@@ -178,6 +178,9 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
+  work_experiences:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -207,6 +210,15 @@ defaults:
   - scope:
       path: ""
       type: experiences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _work_experiences
+  - scope:
+      path: ""
+      type: work_experiences
     values:
       layout: single
       author_profile: true
